@@ -18,4 +18,4 @@ require('./indexroute')(app);
 
 
 //Porta que será usada pela API.
-app.listen(process.end.PORT);
+app.listen(process.env.PORT);
