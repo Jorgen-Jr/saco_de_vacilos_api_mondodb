@@ -1,6 +1,6 @@
 
 const mongoose = require('mongoose');
-const connection = require('../models/connection')
+const connection = require('../config/db_connection')
 
 
 strConnection = connection.strConnection;
