@@ -20,7 +20,7 @@
     "express": "^4.16.4",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.1.13",
-    "mongoose": "^5.4.21",
+    "mongoose": "^5.7.5",
     "pg": "^7.9.0",
     "require-dir": "^1.2.0"
   }
